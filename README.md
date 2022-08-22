@@ -1,1 +1,9 @@
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Crab55e&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Crab55e/)[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crab55e&layout=compact&theme=tokyonight)](https://github.com/Crab55e/)
+# Hello, I'm Crab!!!
+### いや英語じゃなくても良いよね
+
+
+
+
+
+
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crab55e&layout=compact&theme=tokyonight)](https://github.com/Crab55e/)
