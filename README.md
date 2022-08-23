@@ -1,3 +1,1 @@
----
-permalink: /index.html
----
+<h3>やあ</h3>
