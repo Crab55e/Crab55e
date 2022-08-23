@@ -1,9 +1,5 @@
 ### Hello, I'm Crab!!!🦀
 ##### いや英語じゃなくても良いよね
 
-
-
-
-
-
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crab55e&layout=compact&theme=tokyonight)](https://github.com/Crab55e/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Crab55e&show_icons=true&count_private=true&theme=omni&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crab55e&theme=omni&hide_border=true)
