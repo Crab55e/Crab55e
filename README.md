@@ -4,7 +4,7 @@ I'm Admin of [Met's Server](//discord.mets-svr.com/)
 
 Contact :
 - [Web](//crab55e.mets-svr.com)
-- [Discord](//discord.gg/SDY3eF88bw)
+- [Discord](//discord.com/users/776726560929480707)
 - [Twitter](//twitter.com/Crab55e)
 
 <img align=left src="https://github-readme-stats.vercel.app/api?username=Crab55e&theme=dark" height="256"><img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crab55e&theme=dark" height="256">
