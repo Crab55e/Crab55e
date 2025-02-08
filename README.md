@@ -1,9 +1,9 @@
 # Hello!   
 I'm Crab55e.   
-I'm Admin of [Met's Server](//discord.mets-svr.com/)   
+I'm Admin of [Met's Server](//discord.mets-server.com/)   
 
 Contact :
-- [Web](//crab55e.mets-svr.com)
+- [Web](//かに.com)
 - [Discord](//discord.com/users/776726560929480707)
 - [Twitter](//twitter.com/Crab55e)
 
