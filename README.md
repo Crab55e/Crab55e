@@ -1,5 +1,5 @@
 # Hello!   
-I'm Yuu Yoshihara   
+I'm Yuu Yamamoto   
 Admin of [Met's Server](https://discord.mets-server.com/)   
 Founder of [Overworld MC](https://www.overworld-mc.net/)
 
